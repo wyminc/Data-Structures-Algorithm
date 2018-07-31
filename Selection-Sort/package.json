@@ -1,0 +1,21 @@
+{
+  "name": "selection-sort",
+  "version": "1.0.0",
+  "description": "Selection Sort Exercise",
+  "main": "selectionSort.js",
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyminc/Data-Structures-Algorithm/tree/master/Selection-Sort"
+  },
+  "author": "YMin",
+  "license": "MIT"
+}

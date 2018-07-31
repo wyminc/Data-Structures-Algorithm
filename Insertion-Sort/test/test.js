@@ -16,7 +16,7 @@ describe("insertionSort", function () {
     expect(insertionSort(arr)).to.have.lengthOf(9);
   });
 
-  it("S3hould be sorting numerically", function () {
+  it("Should be sorting numerically", function () {
     expect(insertionSort(arr)).to.deep.equal([-5, 1, 25, 30, 50, 56, 100, 120, 999]);
   });
 });

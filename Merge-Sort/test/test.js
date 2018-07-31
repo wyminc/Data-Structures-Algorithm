@@ -16,7 +16,7 @@ describe("mergeSort", function () {
     expect(mergeSort(arr)).to.have.lengthOf(5);
   });
 
-  it("S3hould be sorting numerically", function () {
+  it("Should be sorting numerically", function () {
     expect(mergeSort(arr)).to.deep.equal([-10, 0, 4, 30, 250]);
   });
 });
