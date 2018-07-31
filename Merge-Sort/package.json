@@ -1,0 +1,24 @@
+{
+  "name": "merge-sort",
+  "version": "1.0.0",
+  "description": "Merge Sort Exercise",
+  "main": "mergeSort.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyminc/Data-Structures-Algorithm/tree/master/Merge-Sort"
+  },
+  "author": "YMin",
+  "license": "MIT"
+}

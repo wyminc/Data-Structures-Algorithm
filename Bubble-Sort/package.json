@@ -1,10 +1,10 @@
 {
-  "name": "Bubble-Sort",
+  "name": "bubble-sort",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bubble Sort Exercise",
   "main": "bubbleSort.js",
   "dependencies": {
-    "package.json": "^2.0.1"
+    "chai": "^4.1.2"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
@@ -12,7 +12,10 @@
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyminc/Data-Structures-Algorithm/tree/master/Bubble-Sort"
+  },
+  "author": "YMin",
+  "license": "MIT"
 }

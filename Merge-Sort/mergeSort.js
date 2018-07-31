@@ -1,4 +1,4 @@
-function mergeSort(arr) {
+module.exports = function mergeSort(arr) {
   //If statement to break the recurssion(mergeSort)jjjjjjjjjjjjjjjjjjj
   if (arr.length === 1) {
     return arr;

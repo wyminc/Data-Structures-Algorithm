@@ -1,0 +1,19 @@
+{
+  "name": "insertion-sort",
+  "version": "1.0.0",
+  "description": "Insertion Sort Exercise",
+  "main": "insertionSort.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyminc/Data-Structures-Algorithm/tree/master/Insertion-Sort"
+  },
+  "author": "YMin",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}

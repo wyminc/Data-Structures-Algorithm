@@ -1,4 +1,4 @@
-function bubbleSort(arr) {
+module.exports = function bubbleSort(arr) {
   for (var i = 0; i < arr.length; i++) {
     //It is a double for loop because even though we swap every j-1 and j, its only in comparison in that very momment.
     //i.e. if the lowest number was at the end of the array and there was no nested for loop, the lowest number would only switch once backwards and thats it
@@ -13,4 +13,4 @@ function bubbleSort(arr) {
     }
   }
   return arr;
-}
+};
